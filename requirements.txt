@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+anthropic
+streamlit
+plotly
+openpyxl
+python-dotenv
+schedule
+twilio
+requests
